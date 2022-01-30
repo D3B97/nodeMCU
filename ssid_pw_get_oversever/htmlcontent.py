@@ -6,8 +6,9 @@ html_ap =  '''
         <form>
         <center>
             <h3> Wifi details </h3>
-            <input type="text" name="SSID" placeholder="SSID" />
+            <input type="text" name="ssid" placeholder="SSID" />
             <input type="password" name="password" placeholder="password" />
+            <input type="checkbox" name="lstprt" />
             <button type="sumbit"><a> Login <a/></button>
         </center>
         </form>
@@ -16,7 +17,7 @@ html_ap =  '''
 </html>
 '''
 
-html_switch = '''
+html_sta= '''
     <!DOCTYPE html>
 <html>
     <body>
