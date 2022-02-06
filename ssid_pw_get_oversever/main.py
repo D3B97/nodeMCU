@@ -1,5 +1,5 @@
 from wifiConfg import run_connection
-import machine
+
 import machine
 
 
