@@ -1,4 +1,4 @@
-x = 5
+x = 6
 
 def test():
     global x 
